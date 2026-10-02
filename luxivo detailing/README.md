@@ -12,3 +12,4 @@ Connecté à Vercel. Un `git push` sur la branche `main` déclenche un redéploi
 
 ## Gestion du contenu
 Tout le contenu éditorial (packs, équipe, témoignages, partenaires, numéro WhatsApp) se gère via `/admin`, pas en modifiant ce code.
+  .
